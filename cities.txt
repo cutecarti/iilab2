@@ -1,0 +1,10 @@
+Moscow 0 0
+SaintPetersburg 6 7
+Novosibirsk 30 5
+Yekaterinburg 15 3
+Kazan 8 1
+NizhnyNovgorod 4 2
+Samara 10 -1
+Omsk 25 4
+Chelyabinsk 16 1
+Rostov -2 -8
