@@ -1,0 +1,4 @@
+Moscow 0 0
+SaintPetersburg 0 1
+Novosibirsk 1 0
+Yekaterinburg 1 1

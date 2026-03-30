@@ -1,0 +1,10 @@
+CityA 0 0
+CityB 1 2
+CityC 2 1
+CityD 3 3
+CityE 1 4
+CityF 4 2
+CityG 2 5
+CityH 5 3
+CityI 3 0
+CityJ 4 4
